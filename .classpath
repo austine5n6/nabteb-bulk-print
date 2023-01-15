@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/FXML_example_jar/FXML-example.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/lib/flying-saucer-pdf-9.0.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/lib/pdfbox-1.2.0.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/lib/commons-net-3.6/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/lib/commons-net-3.6/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/lib/commons-net-3.6/commons-net-examples-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/VSC/FXML-example/out/artifacts/lib/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/VSC/FXML-example/out/artifacts/lib/itext-2.0.2.jar"/>
+	<classpathentry kind="output" path="out/production/FXML-example"/>
+</classpath>
